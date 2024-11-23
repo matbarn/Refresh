@@ -9,7 +9,6 @@
 .header_style{
     display: flex;
     flex-direction: row;
-    align-items: center;
 }
 .Search_container{
     display: flex;
