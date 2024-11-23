@@ -1,0 +1,8 @@
+@media screen and (min-width: 1600px) {
+* {
+        font-family: 'Raleway', sans-serif;
+}
+.header{
+    display:flex;
+}  
+}
