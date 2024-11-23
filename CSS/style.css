@@ -4,10 +4,11 @@
 }
 .header{
     display: flex;
+    justify-content: flex-end;
 }
 .header_style{
     display: flex;
-    flex-direction: row; 
+    flex-direction: row;
+ 
 }
-
 }
